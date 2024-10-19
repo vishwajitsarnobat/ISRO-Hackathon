@@ -1,20 +1,18 @@
-Here’s the entire `README.md` content in one piece for you to copy and paste directly into your file:
-
 ```markdown
 # Falcon's ISRO Hackathon Repository
 
 Welcome to the Falcon's ISRO Hackathon project repository. This project involves predicting precipitation using an AI model based on NETCDF data provided by ISRO, recorded with C Doppler radar data. The repository includes the AI model, UI, accuracy, and visualization screenshots.
 
-## Project Overview
+# Project Overview
 This repository contains the following:
 - **AI Model**: Predicts precipitation based on radar data.
 - **NETCDF Data**: Radar data files provided by ISRO.
 - **UI Screenshots**: Visualizations and model performance.
 - **Accuracy Reports**: Screenshots showcasing the model's performance.
 
-## Docker Setup
+# Docker Setup
 
-### Clone the Repository
+# Clone the Repository
 
 ```bash
 git clone https://github.com/vishwajitsarnobat/isro_hackathon.git
@@ -121,5 +119,3 @@ sudo docker image prune
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-You can copy all the text above and paste it directly into your `README.md` file. Let me know if you need anything else!
