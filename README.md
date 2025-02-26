@@ -1,4 +1,3 @@
-```markdown
 # Falcon's ISRO Hackathon Repository
 
 Welcome to the Falcon's ISRO Hackathon project repository. This project involves predicting precipitation using an AI model based on NETCDF data provided by ISRO, recorded with C Doppler radar data. The repository includes the AI model, UI, accuracy, and visualization screenshots.
